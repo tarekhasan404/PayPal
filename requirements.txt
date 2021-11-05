@@ -1,0 +1,8 @@
+requests
+os
+colorama
+bs4
+multiprocessing
+console
+urllib
+time
